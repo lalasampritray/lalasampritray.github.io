@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Lala Samprit Ray"
   avatar           : "profile.png"
-  bio              : "Mechanical Astrologer"
-  location         : "Odisha,India"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Odisha"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
