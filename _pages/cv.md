@@ -16,11 +16,16 @@ Education
   
 Skills
 ======
-* Cad-> Fusion 360
+* CAD
+  * Fusion 360
+* CAE
+  * Ansys 
 * Scripting languages
   * Python
   * Matlab
-* Cae-> Ansys 
+* OS
+  * Windows
+  * Linux
 
 Publications
 ======
