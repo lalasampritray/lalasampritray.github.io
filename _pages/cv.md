@@ -19,13 +19,18 @@ Skills
 * CAD
   * Fusion 360
 * CAE
-  * Ansys 
+  * Ansys
+  * Code-Aster 
 * Scripting languages
   * Python
   * Matlab
 * OS
   * Windows
   * Linux
+* Other
+  * PLC
+  * Hydraulics 
+  * Pneumatics
 
 Publications
 ======
